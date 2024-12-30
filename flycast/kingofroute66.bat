@@ -1,0 +1,1 @@
+START flycast.exe "E:\Games\SegaArcade\Naomi\ROMS\kingrt66.zip"
