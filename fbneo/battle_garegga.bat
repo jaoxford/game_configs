@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe bgaregga
+start E:\Games\fbneo\fbneo.exe bgaregga

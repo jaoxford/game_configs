@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe dariusg
+start E:\Games\fbneo\fbneo.exe dariusg

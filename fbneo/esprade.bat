@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe esprade
+start E:\Games\fbneo\fbneo.exe esprade

@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe progearj
+start E:\Games\fbneo\fbneo.exe progearj

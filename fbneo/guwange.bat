@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe guwange
+start E:\Games\fbneo\fbneo.exe guwange

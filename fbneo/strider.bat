@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe striderj
+start E:\Games\fbneo\fbneo.exe striderj

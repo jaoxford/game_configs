@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe donpachij
+start E:\Games\fbneo\fbneo.exe donpachij

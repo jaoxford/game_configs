@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe mslugx
+start E:\Games\fbneo\fbneo.exe mslugx

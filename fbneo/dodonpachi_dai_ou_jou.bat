@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe ddpdojblka
+start E:\Games\fbneo\fbneo.exe ddpdojblka

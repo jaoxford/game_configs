@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe batsugunsp
+start E:\Games\fbneo\fbneo.exe batsugunsp

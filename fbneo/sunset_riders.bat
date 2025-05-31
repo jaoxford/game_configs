@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe ssriders
+start E:\Games\fbneo\fbneo.exe ssriders

@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe ket
+start E:\Games\fbneo\fbneo.exe ket

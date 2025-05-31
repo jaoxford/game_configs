@@ -1,1 +1,1 @@
-E:\Games\fbneo\fbneo.exe turfmast
+start E:\Games\fbneo\fbneo.exe turfmast
