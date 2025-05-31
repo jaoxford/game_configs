@@ -1,1 +1,3 @@
-start E:\Games\fbneo\fbneo.exe ssriders
+cd /d "%fbneo_location%"
+
+start "" fbneo.exe ssriders

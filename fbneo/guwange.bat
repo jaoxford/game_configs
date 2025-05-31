@@ -1,1 +1,3 @@
-start E:\Games\fbneo\fbneo.exe guwange
+cd /d "%fbneo_location%"
+
+start "" fbneo.exe guwange

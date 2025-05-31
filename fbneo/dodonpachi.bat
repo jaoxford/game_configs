@@ -1,1 +1,3 @@
-start E:\Games\fbneo\fbneo.exe ddonpachj
+cd /d "%fbneo_location%"
+
+start "" fbneo.exe ddonpachj

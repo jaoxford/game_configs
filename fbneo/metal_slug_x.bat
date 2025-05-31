@@ -1,1 +1,3 @@
-start E:\Games\fbneo\fbneo.exe mslugx
+cd /d "%fbneo_location%"
+
+start "" fbneo.exe mslugx
