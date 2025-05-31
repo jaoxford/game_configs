@@ -1,4 +1,3 @@
-:: Need to navigate to where emulator is, so that roms can be loaded.
-cd /d E:\Games\SegaArcade\Naomi\Flycast
+cd /d "%flycast_location%"
 
-start flycast.exe "E:\Games\SegaArcade\Naomi\ROMS\kingrt66.zip"
+start "" flycast.exe "%flycast_roms_location%\kingrt66.zip"
