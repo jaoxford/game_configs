@@ -1,4 +1,11 @@
-:: Need to navigate to where emulator is, so that roms can be loaded.
+::
+::  ____  _      _     ____            _
+:: |  _ \(_)_ __| |_  |  _ \  __ _ ___| |__
+:: | | | | | '__| __| | | | |/ _` / __| '_ \
+:: | |_| | | |  | |_  | |_| | (_| \__ \ | | |
+:: |____/|_|_|   \__| |____/ \__,_|___/_| |_|
+::
+::
 cd /d E:\Games\mame\mame0265b_64bit
 
 start mame.exe -keyboardprovider dinput "dirtdasha"

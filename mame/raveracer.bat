@@ -1,4 +1,11 @@
-:: Need to navigate to where emulator is, so that roms can be loaded.
+::
+::  ____                   ____
+:: |  _ \ __ ___   _____  |  _ \ __ _  ___ ___ _ __
+:: | |_) / _` \ \ / / _ \ | |_) / _` |/ __/ _ \ '__|
+:: |  _ < (_| |\ V /  __/ |  _ < (_| | (_|  __/ |
+:: |_| \_\__,_| \_/ \___| |_| \_\__,_|\___\___|_|
+::
+::
 cd /d E:\Games\mame\mame0265b_64bit
 
 start mame.exe -keyboardprovider dinput "raverace"
