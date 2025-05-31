@@ -1,6 +1,5 @@
-:: Need to navigate to where emulator is, so that roms can be loaded.
-cd /d E:\Games\Sinden\flycast-win64-2.4
+cd /d "%sinden_flycast_location%"
 
-copy "E:\Games\Sinden\flycast-win64-2.4\reshade-shaders\Textures\hotd2.png" "E:\Games\Sinden\flycast-win64-2.4\reshade-shaders\Textures\SweetFX\Layer.png"
+copy "%sinden_flycast_location%\reshade-shaders\Textures\hotd2.png" "%sinden_flycast_location%\reshade-shaders\Textures\SweetFX\Layer.png"
 
 start flycast.exe "E:\Games\SegaArcade\Naomi\ROMS\hotd2.zip"

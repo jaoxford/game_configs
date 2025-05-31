@@ -9,3 +9,10 @@
 setx duckstation_location E:\Games\Playstation\Emulators\Duckstation
 setx fbneo_location E:\Games\fbneo
 setx flycast_location E:\Games\SegaArcade\Naomi\Flycast
+:: ____  _           _
+::/ ___|(_)_ __   __| | ___ _ __
+::\___ \| | '_ \ / _` |/ _ \ '_ \
+:: ___) | | | | | (_| |  __/ | | |
+::|____/|_|_| |_|\__,_|\___|_| |_|
+::
+setx sinden_flycast_location E:\Games\Sinden\flycast-win64-2.4
