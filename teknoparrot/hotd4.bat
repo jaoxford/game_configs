@@ -1,6 +1,4 @@
-:: Need to CD to where emulator is, so that roms can be loaded.
-CD /D E:\Games\Teknoparrot\
+:: Need to navigate to where emulator is, so that roms can be loaded.
+cd /d E:\Games\Teknoparrot\
 
-START TeknoParrotUi.exe --profile=HOTD4.xml
-
-EXIT
+start TeknoParrotUi.exe --profile=HOTD4.xml

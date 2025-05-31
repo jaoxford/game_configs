@@ -1,7 +1,4 @@
-ECHO OFF
+:: Need to navigate to where emulator is, so that roms can be loaded.
+cd /d E:\Games\Teknoparrot\
 
-cd /d "%~dp0"
-
-START TeknoParrotUi.exe --profile=or2spdlx.xml
-
-EXIT
+start TeknoParrotUi.exe --profile=or2spdlx.xml
