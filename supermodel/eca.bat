@@ -14,7 +14,10 @@
 ::
 cd /d "%supermodel_location%"
 
-:: Should use a relative path here.
-call C:\Users\jacob\Documents\GitHub\game_configs\supermodel\write_alternative_ffb.bat
+::
+:: %~dp0 resolves to the full path of the folder in which the batch script resides.
+:: https://stackoverflow.com/a/14942944/4044560
+::
+call %~dp0\write_alternative_ffb.bat
 
 start "" Supermodel.exe -outputs=win -crtcolors=1 "%supermodel_roms_location%\eca.zip"
