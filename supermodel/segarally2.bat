@@ -1,4 +1,3 @@
-:: Need to navigate to where emulator is, so that roms can be loaded.
-cd /d E:\Games\SegaArcade\Model3\Supermodel_0.3a-git-d043dc0_Win64
+cd /d "%supermodel_location%"
 
-start Supermodel.exe -force-feedback -crtcolors=1 E:\Games\SegaArcade\Model3\ROMs\srally2x.zip
+start "" Supermodel.exe -force-feedback -crtcolors=1 "%supermodel_roms_location%\srally2x.zip"

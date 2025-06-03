@@ -9,6 +9,7 @@
 setx duckstation_location E:\Games\Playstation\Emulators\Duckstation
 setx fbneo_location E:\Games\fbneo
 setx flycast_location E:\Games\SegaArcade\Naomi\Flycast
+setx supermodel_location E:\Games\SegaArcade\Model3\Supermodel_0.3a-git-d043dc0_Win64
 :: ____  _           _
 ::/ ___|(_)_ __   __| | ___ _ __
 ::\___ \| | '_ \ / _` |/ _ \ '_ \

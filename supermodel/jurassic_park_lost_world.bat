@@ -1,4 +1,3 @@
-:: Need to navigate to where emulator is, so that roms can be loaded.
-cd /d E:\Games\SegaArcade\Model3\Supermodel_0.3a-git-d043dc0_Win64
+cd /d "%supermodel_location%"
 
-start Supermodel.exe E:\Games\SegaArcade\Model3\ROMS\lostwsga.zip -fullscreen
+start "" Supermodel.exe "%supermodel_roms_location%\lostwsga.zip" -fullscreen
