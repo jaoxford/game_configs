@@ -1,1 +1,3 @@
-E:\Games\PS2\pcsx2-v2.1.156-windows-x64-Qt\pcsx2-qt.exe -fullscreen -- E:\Games\PS2\ROMS\Densha de Go Final (Japan).chd
+cd /d "%pcsx2_location%"
+
+start "" pcsx2-qt.exe -fullscreen -- "%pcsx2_roms_location%\Densha de Go Final (Japan).chd"
