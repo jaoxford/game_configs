@@ -6,6 +6,6 @@
 ::  \___/ \__,_|\__|_|   \__,_|_| |_|_| |_|\___|_|  |___/
 ::
 ::
-cd /d E:\Games\mame\mame0265b_64bit
+cd /d "%mame_location%"
 
-start mame.exe -keyboardprovider dinput "orunners"
+start "" mame.exe -keyboardprovider dinput "orunners"

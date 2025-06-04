@@ -1,3 +1,3 @@
-cd /d E:\Games\mame\mame0265b_64bit
+cd /d "%mame_location%"
 
 start "" mame.exe -keyboardprovider dinput "ptblank2"

@@ -6,6 +6,6 @@
 :: |_| \_\__,_| \_/ \___| |_| \_\__,_|\___\___|_|
 ::
 ::
-cd /d E:\Games\mame\mame0265b_64bit
+cd /d "%mame_location%"
 
-start mame.exe -keyboardprovider dinput "raverace"
+start "" mame.exe -keyboardprovider dinput "raverace"

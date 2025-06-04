@@ -6,6 +6,6 @@
 :: |____/|_|_|   \__| |____/ \__,_|___/_| |_|
 ::
 ::
-cd /d E:\Games\mame\mame0265b_64bit
+cd /d "%mame_location%"
 
-start mame.exe -keyboardprovider dinput "dirtdasha"
+start "" mame.exe -keyboardprovider dinput "dirtdasha"
