@@ -8,4 +8,4 @@
 ::
 cd /d "%duckstation_location%"
 
-start "" duckstation-qt-x64-ReleaseLTCG.exe -batch -- "%duckstation_roms_location%\Densha de Go (Japan)\Densha de Go! (Japan).cue"
+start "" duckstation-qt-x64-ReleaseLTCG.exe -batch -fullscreen -- "%duckstation_roms_location%\Densha de Go (Japan)\Densha de Go! (Japan).cue"
