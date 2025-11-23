@@ -6,16 +6,16 @@
 ::
 @echo off
 
-setx duckstation_location E:\Games\Playstation\Emulators\Duckstation
-setx fbneo_location E:\Games\fbneo
-setx flycast_location E:\Games\SegaArcade\Naomi\Flycast
-setx mame_location E:\Games\mame\mame0265b_64bit
-setx pcsx2_location E:\Games\PS2\pcsx2-v2.1.156-windows-x64-Qt\
-setx supermodel_location E:\Games\SegaArcade\Model3\Supermodel_0.3a-git-d043dc0_Win64
+setx duckstation_location D:\Playstation\Emulators\Duckstation
+setx fbneo_location D:\fbneo
+setx flycast_location D:\SegaArcade\Naomi\Flycast
+setx mame_location D:\mame\mame0265b_64bit
+setx pcsx2_location D:\PS2\pcsx2-v2.1.156-windows-x64-Qt\
+setx supermodel_location D:\SegaArcade\Model3\Supermodel_0.3a-git-d043dc0_Win64
 :: ____  _           _
 ::/ ___|(_)_ __   __| | ___ _ __
 ::\___ \| | '_ \ / _` |/ _ \ '_ \
 :: ___) | | | | | (_| |  __/ | | |
 ::|____/|_|_| |_|\__,_|\___|_| |_|
 ::
-setx sinden_flycast_location E:\Games\Sinden\flycast-win64-2.4
+setx sinden_flycast_location D:\Sinden\flycast-win64-2.4
