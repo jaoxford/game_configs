@@ -1,6 +1,9 @@
 cd /d "%model_2_location%"
 
-:: Should use a relative path here.
-call C:\Users\jacob\Documents\GitHub\game_configs\model2\write_standard_ffb.bat
+::
+:: %~dp0 resolves to the full path of the folder in which the batch script resides.
+:: https://stackoverflow.com/a/14942944/4044560
+::
+call %~dp0\write_standard_ffb.bat
 
 start emulator_multicpu.exe indy500
