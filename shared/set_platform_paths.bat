@@ -20,3 +20,5 @@ setx supermodel_location D:\SegaArcade\Model3\Supermodel_0.3a-git-d043dc0_Win64
 ::|____/|_|_| |_|\__,_|\___|_| |_|
 ::
 setx sinden_flycast_location D:\Sinden\flycast-win64-2.4
+
+setx steam_location D:\SteamLibrary\steamapps\common
