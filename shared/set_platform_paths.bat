@@ -13,6 +13,7 @@ setx mame_location D:\mame\mame0265b_64bit
 setx model_2_location D:\SegaArcade\Model2\M2emulator_1.1a\
 setx pcsx2_location D:\PS2\pcsx2-v2.1.156-windows-x64-Qt\
 setx supermodel_location D:\SegaArcade\Model3\Supermodel_0.3a-git-d043dc0_Win64
+setx teknoparrot_location D:\Teknoparrot\
 :: ____  _           _
 ::/ ___|(_)_ __   __| | ___ _ __
 ::\___ \| | '_ \ / _` |/ _ \ '_ \
