@@ -21,6 +21,7 @@ setx teknoparrot_location D:\Teknoparrot\
 ::|____/|_|_| |_|\__,_|\___|_| |_|
 ::
 setx sinden_location D:\Sinden\
+setx sinden_model_2_location %sinden_location%M2emulator_1.1a\
 setx sinden_flycast_location D:\Sinden\flycast-win64-2.4\
 
 setx steam_location D:\SteamLibrary\steamapps\common\
