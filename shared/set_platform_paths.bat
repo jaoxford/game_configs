@@ -20,6 +20,7 @@ setx teknoparrot_location D:\Teknoparrot\
 :: ___) | | | | | (_| |  __/ | | |
 ::|____/|_|_| |_|\__,_|\___|_| |_|
 ::
+setx sinden_location D:\Sinden\
 setx sinden_flycast_location D:\Sinden\flycast-win64-2.4\
 
 setx steam_location D:\SteamLibrary\steamapps\common\
