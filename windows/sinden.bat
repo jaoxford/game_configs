@@ -1,1 +1,1 @@
-start "" "%sinden_location%Lightgun.exe"
+start "" "%sinden_location%SindenLightgun-v2.08\Lightgun.exe"
