@@ -1,4 +1,4 @@
-cd /d "%sinden_model_2_location%    "
+cd /d "%sinden_model_2_location%"
 
 start "" "%sinden_location%DemulShooter_v12.2\DemulShooter.exe" -target=model2 -rom=hotd
 start "" "%sinden_model_2_location%\emulator_multicpu.exe" hotd
