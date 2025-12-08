@@ -8,4 +8,6 @@
 ::
 cd /d "%supermodel_location%"
 
-start "" Supermodel.exe "%supermodel_roms_location%\lostwsga.zip" -fullscreen -input-system=rawinput
+:: If guns are misbehaving, be sure to change lostwsga from analog_gun_ -> gun_
+
+start "" Supermodel.exe "%supermodel_roms_location%\lostwsga.zip" -input-system=rawinput

@@ -1121,8 +1121,8 @@
 	  <audio>QuadFrontRear</audio>
       <inputs>
         <input type="common" />
-        <input type="analog_gun1" />
-        <input type="analog_gun2" />
+        <input type="gun1" />
+        <input type="gun2" />
       </inputs>
     </hardware>
     <roms>
