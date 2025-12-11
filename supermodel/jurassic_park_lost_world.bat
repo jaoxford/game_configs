@@ -6,6 +6,9 @@
 ::   |_| |_| |_|\___| |_____\___/|___/\__|    \_/\_/ \___/|_|  |_|\__,_|
 ::
 ::
+call %~dp0\..\windows\sinden\close_sinden.bat
+call %~dp0\..\windows\sinden\sinden.bat
+
 cd /d "%supermodel_location%"
 
 :: If guns are misbehaving, be sure to change lostwsga from analog_gun_ -> gun_

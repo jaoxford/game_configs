@@ -1,3 +1,6 @@
+call %~dp0\..\windows\sinden\close_sinden.bat
+call %~dp0\..\windows\sinden\sinden.bat
+
 cd /d "%sinden_flycast_location%"
 
 copy "%sinden_flycast_location%reshade-shaders\Textures\mok.png" "%sinden_flycast_location%reshade-shaders\Textures\SweetFX\Layer.png"
