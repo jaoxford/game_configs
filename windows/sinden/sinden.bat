@@ -6,4 +6,6 @@
 :: |____/|_|_| |_|\__,_|\___|_| |_|
 ::
 ::
-start "" "%sinden_location%SindenLightgun-v2.08\Lightgun.exe"
+cd /d "%sinden_location%SindenLightgun-v2.08"
+
+start "" "Lightgun.exe"
