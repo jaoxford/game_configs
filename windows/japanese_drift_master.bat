@@ -12,4 +12,4 @@
 :: |_|  |_|\__,_|___/\__\___|_|
 ::
 ::
-start "" "%steam_location%\JDM\JDM.exe"
+start "" "steam://launch/1153410"

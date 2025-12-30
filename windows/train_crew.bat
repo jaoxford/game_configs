@@ -6,4 +6,4 @@
 ::   |_||_|  \__,_|_|_| |_|  \____|_|  \___| \_/\_/
 ::
 ::
-start "" "%steam_location%\TRAIN_CREW_Prologue\TrainCrew.exe"
+start "" "steam://launch/1618290"

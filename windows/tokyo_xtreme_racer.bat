@@ -12,4 +12,4 @@
 :: |_| \_\__,_|\___\___|_|
 ::
 ::
-start "" "%steam_location%\TokyoXtremeRacer\TokyoXtremeRacer\Binaries\Win64\TokyoXtremeRacer-Win64-Shipping.exe"
+start "" "steam://launch/2634950"

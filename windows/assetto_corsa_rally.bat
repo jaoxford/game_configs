@@ -12,4 +12,4 @@
 :: |_| \_\__,_|_|_|\__, |
 ::                 |___/
 ::
-start "" "%steam_location%\Assetto Corsa Rally\acr\Binaries\Win64\acr.exe"
+start "" "steam://launch/3917090"
