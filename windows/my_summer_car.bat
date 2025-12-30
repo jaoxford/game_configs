@@ -6,4 +6,4 @@
 :: |_|  |_|\__, | |____/ \__,_|_| |_| |_|_| |_| |_|\___|_|     \____\__,_|_|
 ::         |___/
 ::
-start "" "%steam_location%My Summer Car\mysummercar.exe"
+start "" "steam://launch/516750"
