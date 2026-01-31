@@ -9,7 +9,7 @@
 setx duckstation_location D:\Playstation\Emulators\Duckstation\
 setx fbneo_location D:\fbneo\
 setx flycast_location D:\SegaArcade\Naomi\Flycast\
-setx mame_location D:\mame\mame0265b_64bit\
+setx mame_location D:\mame\mame0283b_64bit\
 setx model_2_location D:\SegaArcade\Model2\M2emulator_1.1a\
 setx pcsx2_location D:\PS2\pcsx2-v2.1.156-windows-x64-Qt\
 setx supermodel_location D:\SegaArcade\Model3\supermodel-0.3a-20251221-git-b6673bf\
