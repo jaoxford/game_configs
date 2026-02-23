@@ -14,4 +14,4 @@ cd /d "%supermodel_location%"
 ::
 call %~dp0\write_standard_ffb.bat
 
-start "" Supermodel.exe -outputs=win -crtcolors=1 "%supermodel_roms_location%\ROMs\lemans24.zip"
+start "" Supermodel.exe -outputs=win -crtcolors=1 "%supermodel_roms_location%\lemans24.zip"
