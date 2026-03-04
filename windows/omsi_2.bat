@@ -6,4 +6,4 @@
 ::  \___/|_|  |_|____/___| |_____|
 ::
 ::
-start "" "steam://launch/252530"
+call %~dp0\launch_steam_game.bat 252530

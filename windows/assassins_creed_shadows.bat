@@ -1,1 +1,1 @@
-start "" "steam://launch/3159330"
+call %~dp0\launch_steam_game.bat 3159330
