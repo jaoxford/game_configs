@@ -30,7 +30,8 @@ CRTcolors = 0
 UpscaleMode = 2
 WideScreen = 1
 Stretch = 0
-WideBackground = 0
+; Stretches 2D background layers
+WideBackground = 1
 VSync = 1
 Throttle = 1
 RefreshRate = 57.5
