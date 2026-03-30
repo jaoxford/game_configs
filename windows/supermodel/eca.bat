@@ -20,4 +20,4 @@ cd /d "%supermodel_location%"
 ::
 call %~dp0\write_alternative_ffb.bat
 
-start "" Supermodel.exe -outputs=win -crtcolors=1 "%supermodel_roms_location%\eca.zip"
+start "" Supermodel.exe -outputs=win -crtcolors=1 "%supermodel_roms_location%eca.zip"

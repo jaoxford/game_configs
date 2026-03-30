@@ -13,4 +13,4 @@ cd /d "%supermodel_location%"
 
 :: If guns are misbehaving, be sure to change lostwsga from analog_gun_ -> gun_
 
-start "" Supermodel.exe "%supermodel_roms_location%\lostwsga.zip" -input-system=rawinput
+start "" Supermodel.exe "%supermodel_roms_location%lostwsga.zip" -input-system=rawinput
