@@ -1,1 +1,1 @@
-C:\Users\jacob\AppData\Local\Programs\Stash\stash-win.exe
+start "" /D "C:\Users\jacob\AppData\Local\Programs\Stash\stash-win.exe"
