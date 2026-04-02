@@ -26,7 +26,8 @@ YResolution = 2160
 FullScreen = 1
 BorderlessWindow = 0
 Supersampling = 1
-CRTcolors = 0
+; Suits most JP games.
+CRTcolors = 1
 UpscaleMode = 2
 WideScreen = 1
 Stretch = 0
