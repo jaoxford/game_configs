@@ -6,4 +6,4 @@
 ::  \____\__,_|_| /_/\_\ |____/ \__|_|  \___|\___|\__|
 ::
 ::
-call %~dp0\launch_steam_game.bat 1114150
+call %~dp0\..\launch_steam_game.bat 1114150
