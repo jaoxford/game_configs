@@ -8,4 +8,5 @@
 ::
 cd /d "%supermodel_location%"
 
-start "" Supermodel.exe -force-feedback -crtcolors=1 "%supermodel_roms_location%srally2x.zip"
+:: needs to be srally2 for 2p, if 1p srally2x
+start "" Supermodel.exe -force-feedback -crtcolors=1 "%supermodel_roms_location%srally2.zip"
