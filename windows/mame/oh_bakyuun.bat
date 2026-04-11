@@ -6,8 +6,8 @@
 ::  \___/|_| |_(_) |____/ \__,_|_|\_\\__, |\__,_|\__,_|\__,_|_| |_|
 ::                                   |___/
 ::
-call %~dp0\..\windows\sinden\close_sinden.bat
-call %~dp0\..\windows\sinden\sinden.bat
+call %~dp0\..\sinden\close_sinden.bat
+call %~dp0\..\sinden\sinden.bat
 
 cd /d "%mame_location%"
 

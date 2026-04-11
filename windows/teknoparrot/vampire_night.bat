@@ -6,8 +6,8 @@
 ::    \_/ \__,_|_| |_| |_| .__/|_|_|  \___| |_| \_|_|\__, |_| |_|\__|
 ::                       |_|                         |___/
 ::
-call %~dp0\..\windows\sinden\close_sinden.bat
-call %~dp0\..\windows\sinden\sinden_auto.bat
+call %~dp0\..\sinden\close_sinden.bat
+call %~dp0\..\sinden\sinden_auto.bat
 
 cd /d "%teknoparrot_location%"
 

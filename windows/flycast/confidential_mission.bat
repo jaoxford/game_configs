@@ -11,8 +11,8 @@
 :: | |  | | \__ \__ \ | (_) | | | |
 :: |_|  |_|_|___/___/_|\___/|_| |_|
 ::
-call %~dp0\..\windows\sinden\close_sinden.bat
-call %~dp0\..\windows\sinden\sinden.bat
+call %~dp0\..\sinden\close_sinden.bat
+call %~dp0\..\sinden\sinden.bat
 
 cd /d "%sinden_flycast_location%"
 

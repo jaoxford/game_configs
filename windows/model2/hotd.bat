@@ -12,8 +12,8 @@
 :: |____/ \___|\__,_|\__,_|
 ::
 ::
-call %~dp0\..\windows\sinden\close_sinden.bat
-call %~dp0\..\windows\sinden\sinden.bat
+call %~dp0\..\sinden\close_sinden.bat
+call %~dp0\..\sinden\sinden.bat
 
 cd /d "%sinden_model_2_location%"
 
